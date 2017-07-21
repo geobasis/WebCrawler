@@ -1,0 +1,35 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.Tests.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.Tests.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.pdb
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.Tests.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.Tests.pdb
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\nunit.framework.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\TrafficControl.Core.pdb
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\bin\Debug\nunit.framework.xml
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.csprojResolveAssemblyReference.cache
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.dll
+F:\Personal\StackBuilders\TrafficControl\TrafficControl.Core.Tests\obj\Debug\TrafficControl.Core.Tests.pdb

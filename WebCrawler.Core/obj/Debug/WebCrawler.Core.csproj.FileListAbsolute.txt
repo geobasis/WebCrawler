@@ -1,0 +1,6 @@
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\bin\Debug\WebCrawler.Core.dll
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\bin\Debug\WebCrawler.Core.pdb
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\obj\Debug\WebCrawler.Core.csprojResolveAssemblyReference.cache
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\obj\Debug\WebCrawler.Core.dll
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\obj\Debug\WebCrawler.Core.pdb
+F:\Personal\StackBuilders\WebCrawler\WebCrawler.Core\bin\Debug\System.Linq.Dynamic.dll
